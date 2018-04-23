@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dashboard CurrencyCulture="en-US">
+  <Title Text="Contacts" />
+  <DataSources>
+    <ObjectDataSource ComponentName="dashboardObjectDataSource1">
+      <Name>Contacts</Name>
+      <DataSource Type="CustomDashboardDesignerForm.Module.BusinessObjects.Contact, CustomDashboardDesignerForm.Module, Version=1.0.6227.27836, Culture=neutral, PublicKeyToken=null" />
+    </ObjectDataSource>
+  </DataSources>
+  <Items>
+    <Grid ComponentName="gridDashboardItem1" Name="Contacts" DataSource="dashboardObjectDataSource1">
+      <DataItems>
+        <Dimension DataMember="FullName" DefaultId="DataItem0" />
+        <Dimension DataMember="Birthday" DefaultId="DataItem1" />
+        <Dimension DataMember="Email" DefaultId="DataItem2" />
+      </DataItems>
+      <GridColumns>
+        <GridDimensionColumn>
+          <Dimension DefaultId="DataItem0" />
+        </GridDimensionColumn>
+        <GridDimensionColumn>
+          <Dimension DefaultId="DataItem1" />
+        </GridDimensionColumn>
+        <GridDimensionColumn>
+          <Dimension DefaultId="DataItem2" />
+        </GridDimensionColumn>
+      </GridColumns>
+      <GridOptions />
+    </Grid>
+  </Items>
+  <LayoutTree>
+    <LayoutGroup>
+      <LayoutItem DashboardItem="gridDashboardItem1" Weight="0.5" />
+    </LayoutGroup>
+  </LayoutTree>
+</Dashboard>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="CustomDashboardDesignerForm">
+  <NavigationItems StartupNavigationItem="Contacts Dashboard">
+    <Items>
+      <Item Id="Reports">
+        <Items>
+          <DashboardNavigationItem Id="Contacts Dashboard" Caption="Contacts Dashboard" DashboardTitle="Contacts" IsNewNode="True" />
+          <Item Id="Dashboards" Removed="True" />
+        </Items>
+      </Item>
+    </Items>
+  </NavigationItems>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="16.2.4.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views>
+    <ListView Id="Contact_ListView">
+      <Columns>
+        <ColumnInfo Id="FullName" Width="229" />
+      </Columns>
+    </ListView>
+  </Views>
+</Application>
