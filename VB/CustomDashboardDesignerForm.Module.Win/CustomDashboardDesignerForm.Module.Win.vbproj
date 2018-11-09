@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -62,7 +62,9 @@
     <ErrorReport>prompt</ErrorReport>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="DevExpress.Sparkline.v16.2.Core" />
     <Reference Include="DevExpress.Dashboard.v16.2.Core" />
+    <Reference Include="DevExpress.Utils.v16.2.UI" />
     <Reference Include="DevExpress.Dashboard.v16.2.Win" />
     <Reference Include="DevExpress.DataAccess.v16.2" />
     <Reference Include="DevExpress.DataAccess.v16.2.UI" />
@@ -101,6 +103,7 @@
     <Reference Include="DevExpress.Xpo.v16.2">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
+    <Reference Include="DevExpress.Charts.v16.2.Core" />
     <Reference Include="DevExpress.XtraCharts.v16.2" />
     <Reference Include="DevExpress.XtraCharts.v16.2.Wizard" />
     <Reference Include="DevExpress.XtraGrid.v16.2">
