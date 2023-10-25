@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DashboardCustomFormEF.Module", "DashboardCustomFormEF.Module\DashboardCustomFormEF.Module.csproj", "{029A8CBF-6274-4684-98B0-6F4FD1C6BB9D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DashboardCustomFormEF.Win", "DashboardCustomFormEF.Win\DashboardCustomFormEF.Win.csproj", "{8A1A2DDF-0377-4050-B4BF-5C1D26F408FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		EasyTest|Any CPU = EasyTest|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{029A8CBF-6274-4684-98B0-6F4FD1C6BB9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029A8CBF-6274-4684-98B0-6F4FD1C6BB9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029A8CBF-6274-4684-98B0-6F4FD1C6BB9D}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{029A8CBF-6274-4684-98B0-6F4FD1C6BB9D}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{029A8CBF-6274-4684-98B0-6F4FD1C6BB9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029A8CBF-6274-4684-98B0-6F4FD1C6BB9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A1A2DDF-0377-4050-B4BF-5C1D26F408FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A1A2DDF-0377-4050-B4BF-5C1D26F408FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A1A2DDF-0377-4050-B4BF-5C1D26F408FB}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{8A1A2DDF-0377-4050-B4BF-5C1D26F408FB}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{8A1A2DDF-0377-4050-B4BF-5C1D26F408FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A1A2DDF-0377-4050-B4BF-5C1D26F408FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
