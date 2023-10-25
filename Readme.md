@@ -6,8 +6,8 @@
 <!-- default file list -->
 *Files to look at*:
 
-* **[CustomDashboardDesignerFormController.cs](./CS/CustomDashboardDesignerForm.Module.Win/Controllers/CustomDashboardDesignerFormController.cs) (VB: [CustomDashboardDesignerFormController.vb](./VB/CustomDashboardDesignerForm.Module.Win/Controllers/CustomDashboardDesignerFormController.vb))**
-* [CustomDashboardDesignerForm.cs](./CS/CustomDashboardDesignerForm.Module.Win/CustomDashboardDesignerForm.cs) (VB: [CustomDashboardDesignerForm.vb](./VB/CustomDashboardDesignerForm.Module.Win/CustomDashboardDesignerForm.vb))
+* **[CustomDashboardDesignerFormController.cs](./CS/CustomDashboardDesignerForm.Module.Win/Controllers/CustomDashboardDesignerFormController.cs)**
+* [CustomDashboardDesignerForm.cs](./CS/CustomDashboardDesignerForm.Module.Win/CustomDashboardDesignerForm.cs)
 <!-- default file list end -->
 # How to show a custom form as the WinForms Dashboard Designer
 
