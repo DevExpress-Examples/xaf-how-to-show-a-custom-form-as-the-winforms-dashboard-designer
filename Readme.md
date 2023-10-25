@@ -7,6 +7,10 @@
 
 This example describes how to show a custom form as the WinForms Dashboard Designer used to create and modify dashboards in the WinForms XAF applications. This can be required for the menu customization. For example, add custom BarItems or remove some default BarItems.
 
+![image](https://github.com/DevExpress-Examples/XAF_how-to-show-a-custom-form-as-the-winforms-dashboard-designer-t473819/assets/14300209/1e3d446a-3514-433e-8347-094e433c68aa)
+
+
+
 ## Implementation Details
 1. Add a new <a href="https://documentation.devexpress.com/#WindowsForms/clsDevExpressXtraEditorsXtraFormtopic">XtraForm</a> or <a href="https://documentation.devexpress.com/#WindowsForms/clsDevExpressXtraBarsRibbonRibbonFormtopic">RibbonForm</a> to the project.
 2. Add <a href="https://documentation.devexpress.com/#Dashboard/clsDevExpressDashboardWinDashboardDesignertopic">DashboardDesigner</a> to the newly created form as it is described in the Create a Designer Application chapter of the <a href="https://documentation.devexpress.com/#Dashboard/CustomDocument12137">Creating a WinForms Designer and Using It to Create a Dashboard</a> article.
