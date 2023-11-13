@@ -3,9 +3,9 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# XAF - How to show a custom form as the WinForms Dashboard Designer
+# XAF - How to show a custom form as a WinForms Dashboard Designer
 
-This example describes how to show a custom form as the WinForms Dashboard Designer used to create and modify dashboards in the WinForms XAF applications. This can be required for the menu customization. For example, add custom BarItems or remove some default BarItems.
+This example describes how to display a custom form as a WinForms Dashboard Designer that is used to create and modify dashboards in WinForms XAF applications. This can be required for menu customization. For example, you may need to add custom BarItems or remove default BarItems.
 
 <kbd>![image](https://github.com/DevExpress-Examples/XAF_how-to-show-a-custom-form-as-the-winforms-dashboard-designer-t473819/assets/14300209/1e3d446a-3514-433e-8347-094e433c68aa)</kbd>
 
