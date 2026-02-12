@@ -31,7 +31,7 @@ This example describes how to display a custom form as a WinForms Dashboard Desi
 * [Create a WinForms Dashboard Designer (.NET Framework)](https://docs.devexpress.com/Dashboard/12137/get-started/build-winforms-dashboard-applications/create-a-winforms-dashboard-designer-in-net-framework)
 * [Access the WinForms Dashboard Designer](https://docs.devexpress.com/eXpressAppFramework/117716/analytics/dashboards/access-the-winforms-dashboard-designer)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=xaf-how-to-show-a-custom-form-as-the-winforms-dashboard-designer&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=xaf-how-to-show-a-custom-form-as-the-winforms-dashboard-designer&~~~was_helpful=no)
 
