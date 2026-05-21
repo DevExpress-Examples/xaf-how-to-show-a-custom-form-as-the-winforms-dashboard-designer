@@ -18,7 +18,6 @@ public class DashboardCustomFormEFWindowsFormsApplication : WinApplication {
 		SplashScreen = new DXSplashScreen(typeof(XafSplashScreen), new DefaultOverlayFormOptions());
         ApplicationName = "DashboardCustomFormEF";
         CheckCompatibilityType = DevExpress.ExpressApp.CheckCompatibilityType.DatabaseSchema;
-        UseOldTemplates = false;
         DatabaseVersionMismatch += DashboardCustomFormEFWindowsFormsApplication_DatabaseVersionMismatch;
         CustomizeLanguagesList += DashboardCustomFormEFWindowsFormsApplication_CustomizeLanguagesList;
     }
